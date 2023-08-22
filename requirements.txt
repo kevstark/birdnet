@@ -1,3 +1,6 @@
+calplot
+ipykernel
+ipywidgets
 matplotlib
 numpy
 pandas
