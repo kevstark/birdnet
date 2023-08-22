@@ -2,3 +2,5 @@
 .env/
 venv/
 .venv/
+
+species_by_minute.png
