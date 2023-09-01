@@ -1,6 +1,6 @@
 # Environments
-.env/
-venv/
-.venv/
+.env
+/.vscode
 
 species_by_minute.png
+/ebird
